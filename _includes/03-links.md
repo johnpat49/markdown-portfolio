@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+### To create a link, put the text you want to display in square brackets, and the URL in the following parentheses.
+
+[GitHub](http://github.com)
